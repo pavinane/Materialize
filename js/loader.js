@@ -1,7 +1,9 @@
-$(document).ready(function(){
+$(document).ready(function () {
     $('.modal').modal();
     $('.parallax').parallax();
     $('.sidenav').sidenav();
+    // $('.carousel').carousel();
+    $(".slider").slider({full_width:true});
 });
 
 
