@@ -7,3 +7,12 @@
     height: 10px;
 }
 
+.move{
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.card{
+    img {
+        height: 200px;
+    }
+}
