@@ -11,8 +11,7 @@
     margin-top: 80px;
     margin-bottom: 20px;
 }
-.card{
-    img {
-        height: 200px;
-    }
+.parallax-container{
+    min-height: 280px;
+    height: auto;
 }

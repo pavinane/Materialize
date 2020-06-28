@@ -4,6 +4,8 @@ $(document).ready(function () {
     $('.sidenav').sidenav();
     // $('.carousel').carousel();
     $(".slider").slider({full_width:true});
+    $('.parallax').parallax();
+    
 });
 
 
